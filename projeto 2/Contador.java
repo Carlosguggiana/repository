@@ -36,10 +36,17 @@ public static String getDateTime() {
 }
 String date =  request.getParameter("Data");{
 	
-}
-}
 	
 	
+}
+
+
+
+public static String getParameter(String string) {
+		// TODO Auto-generated method stub
+		return null;
+}
+}
 
 
 	
